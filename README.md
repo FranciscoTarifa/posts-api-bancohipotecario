@@ -1,6 +1,6 @@
-# Posts API - Banco del Hogar 🏠
+# Posts API - Banco Hipotecario 🏠
 
-API REST desarrollada como parte de la prueba técnica para Banco del Hogar. La aplicación consume y procesa datos de servicios externos, específicamente la API pública [JSONPlaceholder](https://jsonplaceholder.typicode.com/), para obtener posts, comentarios y usuarios, y los combina en una única respuesta.
+API REST desarrollada como parte de la prueba técnica para Banco Hipotecario. La aplicación consume y procesa datos de servicios externos, específicamente la API pública [JSONPlaceholder](https://jsonplaceholder.typicode.com/), para obtener posts, comentarios y usuarios, y los combina en una única respuesta.
 
 ## 🚀 Tecnologías utilizadas
 
