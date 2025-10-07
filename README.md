@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Posts API - Banco Hipotecario Argentina 🏦
 
 API REST desarrollada como parte de la prueba técnica para **Banco Hipotecario de Argentina**.  
